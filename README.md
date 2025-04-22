@@ -17,7 +17,6 @@ Aspiring Full Stack Developer | Open to Work
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
 
 
 ---
