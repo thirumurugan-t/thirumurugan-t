@@ -5,11 +5,10 @@ Aspiring Full Stack Developer | Open to Work
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🎓 Completed a Full Stack Developer course  
-- 🌐 Frontend: HTML, CSS, JavaScript, React.js  
+- 🌐 Frontend: HTML, CSS, JavaScript, React.js, React Native
 - 🔧 Backend: Java, Spring Boot  
 - 💾 Database: MySQL  
-- 🛠 IDE & Tools: VS Code, Spring Initializr, IntelliJ, Git  
-- 💡 Currently seeking opportunities to kickstart my career as a Full Stack Developer
+- 🛠 IDE & Tools: VS Code, Spring Initializr, IntelliJ, Docker, Git  
 
 
 &nbsp;  
